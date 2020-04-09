@@ -1,4 +1,4 @@
-Bunny Mock
+Bunny mock
 ==========
 
 [![Build Status](https://travis-ci.org/arempe93/bunny-mock.svg?branch=master)](https://travis-ci.org/arempe93/bunny-mock)
